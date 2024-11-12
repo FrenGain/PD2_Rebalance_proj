@@ -14,11 +14,11 @@
 		],
 		
 	"updates" : [
-			{
-					"identifier" : "theabominable",
-					"host" : {
-							"meta" : ""
-					}
-			}
-	]
+		{
+				"identifier" : "theabominable",
+				"host" : {
+						"meta" : "https://github.com/FrenGain/PD2_Abominable_Overhaul/blob/main/theabominable.json"
+				}
+		}
+		]
 }
