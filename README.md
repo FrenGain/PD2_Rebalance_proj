@@ -1,3 +1,3 @@
-# A Payday 2 Rebalance
+# A Payday 2 Overhaul
 
-Active changes I'm attempting to make to PD2 under the guise of a rebalance. It's tacky, but it works.
+MAJOR WIP. Expect bugs, broken things, OP things, and things to not work correctly.
